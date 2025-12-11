@@ -2,8 +2,7 @@
 
 A comprehensive, research-grade benchmark for evaluating Large Language Models (LLMs) on statistical hypothesis testing tasks.
 
-##
-Project Artifacts
+## Project Artifacts
 
 Tap this link to view my [Project Artifacts](https://github.com/alfietry/hypothesis-test-benchmark/blob/main/Final-Demo-Recording-Report-PPT.md).
 
