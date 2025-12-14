@@ -45,7 +45,7 @@ final-proj-bench/
 pip install -r requirements.txt
 
 # Set up API keys
-cp .env.example .env
+cp .env .env
 # Edit .env with your API keys
 ```
 
